@@ -1,0 +1,23 @@
+n = 750
+Euler constant e = 2.7182818284590455
+Time: 0.005958
+
+n = 800
+Euler constant e = 2.7182818284590455
+Time: 0.004879
+
+n = 850
+Euler constant e = 2.7182818284590455
+Time: 0.000498
+
+n = 900
+Euler constant e = 2.7182818284590455
+Time: 0.000513
+
+n = 950
+Euler constant e = 2.7182818284590455
+Time: 0.000661
+
+n = 1000
+Euler constant e = 2.7182818284590455
+Time: 0.000532

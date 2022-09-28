@@ -8,14 +8,14 @@ int main() {
 
     int i;
 
-    //int n = 165;
-    //int n = 330;
-    //int n = 495;
-    //int n = 660;
-    //int n = 825;
-    int n = 1000;
+    int n = 500;
+    //int n = 800;
+    //int n = 850;
+    //int n = 900;
+    //int n = 950;
+    //int n = 1000;
     
-    double a[1000];
+    double a[n];
 
     double start_time;
     double end_time;
