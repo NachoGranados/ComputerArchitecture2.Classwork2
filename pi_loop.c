@@ -41,7 +41,12 @@ int main () {
 	double x, pi, sum = 0.0;
 	double start_time, run_time;
 
-	step = 50.0 / (double) num_steps;
+	step = 1.0/(double) num_steps;
+	//step = 10.0/(double) num_steps;
+	//step = 20.0/(double) num_steps;
+	//step = 30.0/(double) num_steps;
+	//step = 40.0/(double) num_steps;
+	//step = 50.0/(double) num_steps;
 	
 	for(i = 1; i <= 2 * omp_get_num_procs(); i++) {
 
